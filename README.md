@@ -3,7 +3,7 @@
 
 用的模型是ACertainThing.ckpt，效果嘛，狗屎一坨。
 
-![](results\微信图片_20231130144416.png)
+![](./results\demo.png)
 
 主要是整个方案的流程跑一遍：
 
